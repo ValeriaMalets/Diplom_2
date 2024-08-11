@@ -1,0 +1,2 @@
+User creation failed with status code 403
+Response body: {'success': False, 'message': 'User already exists'}
