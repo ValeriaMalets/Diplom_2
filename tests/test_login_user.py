@@ -1,7 +1,7 @@
 import allure
 import requests
-import config
-from helpers import User
+from .. import config
+from ..helpers import User
 
 
 @allure.story("User Login Tests")
